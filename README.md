@@ -1,20 +1,33 @@
-<h2 align="left">Hi 👋! My name is Hanif and I'm a Informatic Engineering Student, from PNJ</h2>
+<img align="right" height="366" src="https://i.imgur.com/90vSU0m.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHanifZidan&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=MuhammadHanifZidan&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadHanifZidan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&reversal=false&text=Welcome&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/90vSU0m.gif"  />
+<h2 align="left">Hi 👋! My name is Hanif and I'm a Informatic Engineering Student, from PNJ</h2>
 
 ###
 
-<div align="left">
+## 🎧 Recently Played on Spotify
+
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=9859v3c5ngei3l0potsfgfifg&count=5&width=700&unique=true&t=1)
+
+---
+
+<p align="center">
+  <a href="https://open.spotify.com/user/9859v3c5ngei3l0potsfgfifg" target="_blank">
+    🎵 Lihat Profil Spotify Saya
+  </a>
+</p>
+
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -32,8 +45,17 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHanifZidan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=MuhammadHanifZidan&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadHanifZidan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -42,8 +64,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MuhammadHanifZidan/MuhammadHanifZidan/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadHanifZidan/MuhammadHanifZidan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadHanifZidan/MuhammadHanifZidan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadHanifZidan/MuhammadHanifZidan/output/pacman-contribution-graph.svg">
+</picture>
 
 ###

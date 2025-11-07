@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/9hplmM8mFmsAAAAM/presiden-jokowi-minum.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/U-mPzEWxNOMAAAAd/presiden-jokowi-minum.gif"  />
 
 ###
 

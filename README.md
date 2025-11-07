@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/presiden-jokowi-minum-ronaldo-drinking-meme-meme-indonesia-gif-24750142"  />
+<img align="right" src="https://tenor.com/view/presiden-jokowi-minum-ronaldo-drinking-meme-meme-indonesia-gif-24750142"  />
 
 ###
 
